@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MultiThreading.iml" filepath="$PROJECT_DIR$/.idea/MultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multi_Threading/Multi_Threading.iml" filepath="$PROJECT_DIR$/Multi_Threading/Multi_Threading.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Multithreading_Opdracht/Multithreading_Opdracht.iml" filepath="$PROJECT_DIR$/Multithreading_Opdracht/Multithreading_Opdracht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading_Opdracht/Multithreading_Opdracht.iml" filepath="$PROJECT_DIR$/MultiThreading_Opdracht/Multithreading_Opdracht.iml" />
     </modules>
   </component>
 </project>
